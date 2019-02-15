@@ -1,2 +1,2 @@
 # than_os
-👾Toy OS written in Rust.
+👾 Toy OS written in Rust.
