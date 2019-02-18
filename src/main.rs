@@ -1,4 +1,5 @@
 #![no_std]
+#![no_main]
 
 use core::panic::PanicInfo;
 
@@ -7,4 +8,3 @@ use core::panic::PanicInfo;
 fn panic(_info: &PanicInfo) -> ! {
     loop {}
 }
-fn main() {}
